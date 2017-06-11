@@ -1,4 +1,4 @@
-This repo is examples of webcrawlers built using the Scrapy python framework.  For more details about Scrapy..
+This repo is example of webcrawler built using the Scrapy Python framework.  For more details about Scrapy..
 
  - [Scrapy Framework](https://github.com/scrapy/scrapy/)
  - [Wiki](https://github.com/scrapy/scrapy/wiki)
@@ -6,7 +6,7 @@ This repo is examples of webcrawlers built using the Scrapy python framework.  F
 Gibyellow Spider
 ====================================
 
-Simple Scrapy spider for [Gibyellow](http://gibyellow.gi/)
+Simple Scrapy spider for [GibYellow.gi](https://gibyellow.gi/)
 
 ------------
 
